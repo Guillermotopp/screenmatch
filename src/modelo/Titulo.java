@@ -66,4 +66,7 @@ public class Titulo {
         System.out.println("Año de : " + fechaDeLanzamiento);
     }
 
+    public void setFechadeLanzamiento(int fechaDeLanzamiento) {
+        this.fechaDeLanzamiento = fechaDeLanzamiento;
+    }
 }
