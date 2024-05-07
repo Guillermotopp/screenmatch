@@ -67,16 +67,19 @@ public class Principal {
                     serieUsuario.setDuracionEnMinutosPorEpisodio(minutosPorEpisodio);
                     serieUsuario.muestraFichaTecnica();
                     calculadoraDeTiempo.incluye(serieUsuario);
+                    teclado.nextLine();
                     break;
 
                 case 3:
 
-                    calculadoraDeTiempo.incluye(peliculaUsuario);
+
                     calculadoraDeTiempo.incluye(serieUsuario);
                     int tiempoTotal = calculadoraDeTiempo.getTiempoTotal();
                     System.out.println("Tiempo total de la serie: " + tiempoTotal + " minutos");
                     System.out.println("Tiempo que necesitas para ver la serie completa: " + tiempoTotal + " minutos");
+                    teclado.nextLine();
                     break;
+
                 case 9:
                     System.out.println("Saliendo del Programa");
                     break;
