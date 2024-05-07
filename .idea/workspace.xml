@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23c0b990-e8a2-4e40-ac60-34b8519bd363" name="Changes" comment="version 1.5&#10;Dia 2 de Alura Latam&#10;//Faltan correcciones en la calculadora de tiempo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilidades/CalculadoraDeTiempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilidades/CalculadoraDeTiempo.java" afterDir="false" />
-    </list>
+    <list default="true" id="23c0b990-e8a2-4e40-ac60-34b8519bd363" name="Changes" comment="version 1.5&#10;Dia 2 de Alura Latam&#10;//Faltan correcciones en la calculadora de tiempo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
